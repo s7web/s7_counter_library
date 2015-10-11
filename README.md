@@ -1,2 +1,2 @@
-# s7_counter_library
+# Still countdown
 Count down library
