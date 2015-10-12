@@ -1,2 +1,2 @@
-# s7_counter_library test
+1
 Count down library
